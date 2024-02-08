@@ -1,3 +1,7 @@
+Nombre: Christian Hernández
+Evaluador: Daniel Malvaez
+Calificación: 9
+
 const formulario = document.querySelector("#form")
 const inputNombre = document.querySelector('#name')
 const inputEdad = document.querySelector('#age')
